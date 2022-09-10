@@ -1,0 +1,23 @@
+p,h3,h4,h2{
+    font-weight: bold;
+    color: black;
+  }
+  h3{
+    text-align: center;
+    color: rgba(163, 110, 13, 0.952);
+    font-size: 25px;
+  }
+body{
+    margin: 0%;
+  }
+
+  a,
+  a:visited,
+  a:hover {
+    color: blue;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: green;
+  }
